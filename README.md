@@ -8,4 +8,4 @@ When I'm not studying or coding, you'll find me enjoying a good game of football
 Let's build something amazing together!
 
 ### Stack & Skills
-[![My Skills](https://skillicons.dev/icons?i=html,css,git,github&theme=dark)]
+![My Skills](https://skillicons.dev/icons?i=html,css,git,github&theme=dark)
