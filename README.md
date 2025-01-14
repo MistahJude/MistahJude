@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Jude,
+My name is Xoft,
 
 A passionate frontend developer and a Computer Science student currently focused on creating visually appealing web pages. My goal is to become a full-stack developer, contributing to open-source projects and continuously expanding my skill set.
 
